@@ -1,0 +1,9 @@
+data/
+!data/*.dvc
+venv/
+*csv
+photos/
+__pycache__/
+.env
+logs/
+data_house/
